@@ -1,22 +1,26 @@
 {
     "plugins": [
         {
-            "name": "plugin1",
+            "name": "PluginX",
             "versions": [
                 {
                     "version": "1.0.0",
-                    "url": "http://example.com/plugin1-1.0.0.zip"
+                    "url": "https://github.com/smd-jt-store/PluginX/archive/refs/tags/1.0.tar.gz"
+                },
+                {
+                    "version": "2.0.0",
+                    "url": "https://github.com/smd-jt-store/PluginX/archive/refs/tags/2.0.tar.gz"
                 }
             ],
             "author": "author1",
             "description": "description1"
         },
         {
-            "name": "plugin2",
+            "name": "PluginY",
             "versions": [
                 {
                     "version": "1.0.0",
-                    "url": "http://example.com/plugin2-1.0.0.zip"
+                    "url": "https://github.com/smd-jt-store/PluginY/archive/refs/tags/1.0.tar.gz"
                 }
             ],
             "author": "author2",
