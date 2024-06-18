@@ -5,11 +5,11 @@
             "versions": [
                 {
                     "version": "1.0.0",
-                    "url": "https://github.com/smd-jt-store/PluginX/archive/refs/tags/1.0.tar.gz"
+                    "url": "https://github.com/smd-jt-store/PluginX/releases/download/1.0/PluginX1_0.zip"
                 },
                 {
                     "version": "2.0.0",
-                    "url": "https://github.com/smd-jt-store/PluginX/archive/refs/tags/2.0.tar.gz"
+                    "url": "https://github.com/smd-jt-store/PluginX/releases/download/2.0/PluginX2_0.zip"
                 }
             ],
             "author": "author1",
@@ -20,7 +20,7 @@
             "versions": [
                 {
                     "version": "1.0.0",
-                    "url": "https://github.com/smd-jt-store/PluginY/archive/refs/tags/1.0.tar.gz"
+                    "url": "https://github.com/smd-jt-store/PluginY/releases/download/1.0/pY.zip"
                 }
             ],
             "author": "author2",
