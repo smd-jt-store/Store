@@ -1,0 +1,26 @@
+{
+    "plugins": [
+        {
+            "name": "plugin1",
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "url": "http://example.com/plugin1-1.0.0.zip"
+                }
+            ],
+            "author": "author1",
+            "description": "description1"
+        },
+        {
+            "name": "plugin2",
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "url": "http://example.com/plugin2-1.0.0.zip"
+                }
+            ],
+            "author": "author2",
+            "description": "description2"
+        }
+    ]
+}
